@@ -1,0 +1,27 @@
+{
+  "name": "bless-loader",
+  "version": "1.0.0",
+  "description": "unofficial bless loader module for webpack. see: http://blesscss.com for more info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shripadk/bless-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "bless",
+    "css"
+  ],
+  "author": "Shripad Krishna <i@shripadk.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shripadk/bless-loader/issues"
+  },
+  "homepage": "https://github.com/shripadk/bless-loader#readme",
+  "dependencies": {
+    "bless": "^4.0.0-alpha.0"
+  }
+}
